@@ -1,5 +1,5 @@
 {
-  "name": "react-booster",
+  "name": "cra-template-react-booster",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
